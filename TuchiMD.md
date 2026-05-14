@@ -48,3 +48,5 @@ print(f"La suma es: {resultado}")
 - [x] Tarea Completada 😄.
 - [ ] Tarea Incompleta ✖️.
 
+
+> Modificación realizada por Luz para la actividad de GitHub - 13/05/2026 😄
